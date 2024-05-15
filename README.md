@@ -78,7 +78,7 @@ pip install pandas scikit-learn matplotlib seaborn
 
 ## Usage
 
-After installing the required libraries, you can run the project by executing the main Python script. Make sure to replace main.py with the actual name of your Python script
+After installing the required libraries, you can run the project by executing the main Python script. 
 
 ## Data
 
